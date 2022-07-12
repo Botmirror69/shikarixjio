@@ -1,5 +1,5 @@
 <?php
-$p= @file_get_contents("https://shikarixjio.vercel.app/api/token.php"); # Change This Path According to Your Server and Folder
+$p= @file_get_contents("token.php"); # Change This Path According to Your Server and Folder
 
 
 # © 2021 Techie Sneh DO NOT EDIT ANYTHING TO KEEP RUNNING
